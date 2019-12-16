@@ -10,7 +10,7 @@
     ```
     * after starting it, you can access the server through url "http://192.168.33.13:4444/grid/console"
     
-## Creating a node and registering it in the node
+## Creating a node and registering it in the hub
 1. go to node-vm folder and run vagrant
 2. you can see in the vagrant file that we have done following tasks
     * download selenium-stand-alone-server jar file
