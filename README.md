@@ -1,4 +1,10 @@
 # SeleniumGrid
+
+## Why we need selenium grid in testing?
+* To run tests on multiple browsers and their versions, different devices, and operating systems
+* To reduce the time that a test suite takes to complete a test
+* Selenium Grid improves the turnaround time of the test results. This difference happens to be significant, especially when the test suite is large and takes more time to run. It offers flexibility and widens the coverage of testing in a limited time. Since the virtual infrastructure is in use, maintenance becomes easy.
+
 ## Creating selenium grid and registering nodes to that grid
 ## Creating a hub VM
 1. goto hub-vm folder and run vagrant
